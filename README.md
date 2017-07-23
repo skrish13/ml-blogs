@@ -6,6 +6,7 @@
 - https://theneuralperspective.com/ - Goku Mohandas (Apple)
 - https://github.com/dennybritz/deeplearning-papernotes - Denny Britz 
 - https://github.com/abhshkdz/papers - Abhishek Das (CS PhD student at Georgia Tech)
+- https://greydanus.github.io/papers/ - Sam Greydanus (Dartmouth Physics Major)
 
 ## Related to above
 
