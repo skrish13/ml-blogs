@@ -25,4 +25,4 @@
 - http://www.wildml.com/ - Denny Britz
 - http://swinghu.github.io/index.html - swinghu
 - http://timvieira.github.io/blog/ - Tim Vieira
-
+- http://www.inference.vc/ - Ferenc Huszár
