@@ -19,7 +19,6 @@
 - https://distill.pub/ - Distill
 - http://bair.berkeley.edu/blog/ - Berkeley AI Research
 - https://deepmind.com/blog/?category=research - DeepMind 
-
 - http://karpathy.github.io/ - Andrej Karpathy
 - http://colah.github.io/ - Christopher Olah
 - http://www.wildml.com/ - Denny Britz
