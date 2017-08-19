@@ -15,10 +15,14 @@
 
 ## General ones
 
-- http://colah.github.io/ - Christopher Olah
-- http://karpathy.github.io/ - Andrej Karpathy
 - https://blog.openai.com/ - OpenAI blog
 - https://distill.pub/ - Distill
+- http://bair.berkeley.edu/blog/ - Berkeley AI Research
+- https://deepmind.com/blog/?category=research - DeepMind 
+
+- http://karpathy.github.io/ - Andrej Karpathy
+- http://colah.github.io/ - Christopher Olah
 - http://www.wildml.com/ - Denny Britz
 - http://swinghu.github.io/index.html - swinghu
-- 
+- http://timvieira.github.io/blog/ - Tim Vieira
+
